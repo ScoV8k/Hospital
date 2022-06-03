@@ -1,0 +1,13 @@
+Person Jan Antecki Patient 0 Diseases 1 Rak Medicines 1 Lek
+Person Adam Zysk Patient 0 Diseases 1 Katar Medicines 1 Lek
+Person Jan Antecki Patient 1 Diseases 1 Rak Medicines 1 Lek
+Person Adam Zysk Patient 1 Diseases 1 Katar Medicines 1 Lek
+Person Jan Antecki Patient 2 Diseases 1 Rak Medicines 1 Lek
+Person Adam Zysk Patient 2 Diseases 1 Katar Medicines 1 Lek
+Person Joanna Jakubiak Patient 0 Diseases 1 Rak Medicines 1 Lek
+Person Jan Antek Employee Doctor Unit 0
+Person Adam Nowak Employee Doctor Unit 1
+Person Anna Dęby Employee Nurse Hospital
+Person Jan Antek Employee Doctor Unit 0
+Person Adam Nowak Employee Lifeguard Unit 1
+Person Anna Dęby Employee Doctor Hospital

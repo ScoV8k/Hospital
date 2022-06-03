@@ -1,0 +1,74 @@
+Do szpitala przybył pacjent #79
+Do szpitala przybył pacjent #80
+Lekarz #78 przeprowadził konsultacje z pacjentem # 79. U pacjenta #79 zdiagnozowano nową chorbę: Choroba serca. Pacjent #79 został przydzielony do oddziału: Oddział kardiologiczny #33, do pokoju 211 #42
+Ilość pacjentów pod koniec iteracji: 8
+====================
+Nie przyszedł żaden nowy pacjent
+Lekarz #78 przeprowadził konsultacje z pacjentem # 80. U pacjenta #80 zdiagnozowano nową chorbę: Koronawirus. Pacjent #80 został przydzielony do oddziału: Oddział zakaźny #44, do pokoju 345 #51
+Ilość pacjentów pod koniec iteracji: 9
+====================
+Do szpitala przybył pacjent #81
+Do szpitala przybył pacjent #82
+Do szpitala przybył pacjent #83
+Lekarz #78 przeprowadził konsultacje z pacjentem # 81. U pacjenta #81 zdiagnozowano nową chorbę: Zapalenie płuc. Pacjentowi #81 przypisano: Syrop na kaszel. Pacjent #81 został przydzielony do oddziału: Oddział zakaźny #44, do pokoju 234 #47
+Ilość pacjentów pod koniec iteracji: 10
+====================
+Nie przyszedł żaden nowy pacjent
+Lekarz #78 przeprowadził konsultacje z pacjentem # 82. U pacjenta #82 zdiagnozowano nową chorbę: Koronawirus. Pacjent #82 został przydzielony do oddziału: Oddział zakaźny #44, do pokoju 211 #53
+Ilość pacjentów pod koniec iteracji: 11
+====================
+Do szpitala przybył pacjent #84
+Lekarz #78 przeprowadził konsultacje z pacjentem # 83. U pacjenta #83 zdiagnozowano nową chorbę: Choroba serca. Pacjent #83 został przydzielony do oddziału: Oddział kardiologiczny #33, do pokoju 27 #38
+Pacjent #66 idzie na rutynowe badania
+Pacjent #67 idzie na rutynowe badania
+Pacjent #72 idzie na rutynowe badania
+Pacjent #79 idzie na rutynowe badania
+Lekarz #73 przeprowadził konsultacje z pacjentem # 66. U pacjenta #66 zdiagnozowano nową chorbę: Choroba serca. Doktor #73 przeprowadził operację na pacjencie #66. 
+Lekarz #76 przeprowadził konsultacje z pacjentem # 67. U pacjenta #67 zdiagnozowano nową chorbę: Koronawirus. 
+Pacjent #81 wyzdrowiał z zapalenia płuc
+Pacjent #68 idzie na rutynowe badania
+Pacjent #69 idzie na rutynowe badania
+Lekarz #74 przeprowadził konsultacje z pacjentem # 68. U pacjenta #68 zdiagnozowano nową chorbę: Rak. Doktor #74 przeprowadził operację na pacjencie #68. 
+Pacjent #70 idzie na rutynowe badania
+Pacjent #71 idzie na rutynowe badania
+Ilość pacjentów pod koniec iteracji: 12
+====================
+Nie przyszedł żaden nowy pacjent
+Lekarz #78 przeprowadził konsultacje z pacjentem # 84. U pacjenta #84 zdiagnozowano nową chorbę: Rak. Doktor #78 przeprowadził operację na pacjencie #84. Pacjent #84 został przydzielony do oddziału: Oddział wewnętrzny #55, do pokoju 211 #64
+Lekarz #73 przeprowadził konsultacje z pacjentem # 72. U pacjenta #72 zdiagnozowano nową chorbę: Choroba serca. Doktor #73 przeprowadził operację na pacjencie #72. 
+Pacjent #81 wyzdrowiał z zapalenia płuc
+Pacjent #80 idzie na rutynowe badania
+Lekarz #74 przeprowadził konsultacje z pacjentem # 69. U pacjenta #69 zdiagnozowano nową chorbę: Koronawirus. 
+Ilość pacjentów pod koniec iteracji: 13
+====================
+Nie przyszedł żaden nowy pacjent
+Pacjent #81 idzie na rutynowe badania
+Ilość pacjentów pod koniec iteracji: 13
+====================
+Do szpitala przybył pacjent #85
+Do szpitala przybył pacjent #86
+Do szpitala przybył pacjent #87
+Lekarz #78 przeprowadził konsultacje z pacjentem # 85. U pacjenta #85 zdiagnozowano nową chorbę: Zapalenie płuc. Pacjentowi #85 przypisano: Syrop na kaszel. Pacjent #85 został przydzielony do oddziału: Oddział zakaźny #44, do pokoju 211 #53
+Pacjent #66 opuścił szpital
+Pacjent #72 opuścił szpital
+Pacjent #79 opuścił szpital
+Pacjent #79 opuścił szpital
+Pacjent #69 opuścił szpital
+Pacjent #82 opuścił szpital
+Pacjent #82 idzie na rutynowe badania
+Pacjent #85 wyzdrowiał z zapalenia płuc
+Pacjent #70 opuścił szpital
+Pacjent #71 opuścił szpital
+Ilość pacjentów pod koniec iteracji: 6
+====================
+Do szpitala przybył pacjent #88
+Do szpitala przybył pacjent #89
+Do szpitala przybył pacjent #90
+Lekarz #78 przeprowadził konsultacje z pacjentem # 86. U pacjenta #86 zdiagnozowano nową chorbę: Zapalenie płuc. Pacjentowi #86 przypisano: Syrop na kaszel. Pacjent #86 został przydzielony do oddziału: Oddział zakaźny #44, do pokoju 345 #51
+Pacjent #83 idzie na rutynowe badania
+Lekarz #73 przeprowadził konsultacje z pacjentem # 83. U pacjenta #83 zdiagnozowano nową chorbę: Choroba serca. 
+Pacjent #81 wyzdrowiał z zapalenia płuc
+Pacjent #86 opuścił szpital
+Pacjent #86 wyzdrowiał z zapalenia płuc
+Ilość pacjentów pod koniec iteracji: 6
+====================
